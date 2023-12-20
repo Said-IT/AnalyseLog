@@ -13,8 +13,8 @@ This is a Python tool designed to analyze system log files searching for unusual
 ## Usage
 
 1. Make sure you have Python installed on your system.
-2. Clone the repository: `git clone https://github.com/your-username/log-analyzer.git`
-3. Navigate to the project directory: `cd log-analyzer`
+2. Clone the repository: `git clone https://github.com/Said-IT/AnalyseLog.git`
+3. Navigate to the project directory: `cd AnalyseLog`
 4. Run the script with your log file replacing `path/to/your/log/file.txt`: `python analyze_logs.py path/to/your/log/file.txt`
 
 ## Configuration Example
